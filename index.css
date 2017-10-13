@@ -1,26 +1,26 @@
 html{ background-color:#AFF471; }
 h1{ color: orange;
 	padding-top: 20px;
-	text-align: center }
+	text-align: center;
+	font-size: 400%; }
+
+
 	a{ padding-top:10px;
 		padding-right:20px;
 		padding-left:20px;
 		padding-bottom:10px;
 		border-style:groove; 
-		margin: 30px;
-		 }
+		margin: 30px;	}
+
 	a:hover{ color: blue;}
 	
-	body{ 
-			margin: 40px;;
-			}
+	body{ margin: 40px;}
+
+
 	 img{ margin: 40px;
-		 border: solid;
-}
+		 border: solid;}
 	
-	p{
-	text-align: center;
+p{	text-align: center;
 	text-indent: 30px;
 	width: 300px;
-	font-size: 15pt;
-	}
+	font-size: 200%;}
