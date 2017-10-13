@@ -2,7 +2,7 @@ html{ background-color:#AFF471; }
 h1{ color: orange;
 	padding-top: 20px;
 	text-align: center;
-	font-size: 400%; }
+	font-size: xx-large; }
 
 
 	a{ padding-top:10px;
@@ -23,4 +23,4 @@ h1{ color: orange;
 p{	text-align: center;
 	text-indent: 30px;
 	width: 300px;
-	font-size: 200%;}
+	font-size: large;}
